@@ -1,8 +1,10 @@
 # 👋 Hello, I'm Alena!
 Welcome to my GitHub! I’m currently an Electrical Engineering and Computer Sciences major at UC Berkeley, pursuing a minor in Data Science. My expected graduation is in May 2026, and I’m passionate about Software Engineering, Data Science, and Machine Learning.
 
+My most recent project was in collaboration with Google and Break Through Tech, where my group built a [search query recommendation system](https://github.com/harsita-keerthi/btt-google-2e). 
+
 ### 📫 Let's Connect!
-<a href="https://www.linkedin.com/in/harsitak/" target="_blank">
+<a href="https://www.linkedin.com/in/alenachao/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
