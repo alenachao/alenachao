@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Alena!
-Welcome to my GitHub! I’m currently an Electrical Engineering and Computer Sciences major at UC Berkeley. My expected graduation is in May 2026, and I’m passionate about Software Engineering, Data Science, and Machine Learning.
+Welcome to my GitHub! I’m currently an Electrical Engineering and Computer Sciences major at UC Berkeley. I’m passionate about Software Engineering, Data Science, and Machine Learning.
 
 My most recent project was in collaboration with Google and Break Through Tech, where my group built a [search query recommendation system](https://github.com/harsita-keerthi/btt-google-2e). 
 
